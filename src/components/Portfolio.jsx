@@ -7,7 +7,7 @@ import coffee from "../assets/portfolio/coffee.png"
 const Portfolio = () => {
 
   return (
-    <div name="Portfolio" className="bg-gradient-to-b from-black 
+    <div name="Portfolio/Logs" className="bg-gradient-to-b from-black 
     to-gray-800 w-full text-white md:h-screen" >
 
         <div className="max-w-screen-lg p-4 mx-auto flex flex-col 
