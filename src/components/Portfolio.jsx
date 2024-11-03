@@ -37,9 +37,6 @@ const Portfolio = () => {
                     <img src={running} alt="Running Application"
                     className="rounded-md duration-200 hover:scale-105" />
                     <div className="flex items-center justify-center">
-                        <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Code</button>
-                        <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">SRS</button>
-                        <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Logs</button>
                     </div>
                 </div>
 
@@ -47,9 +44,6 @@ const Portfolio = () => {
                     <img src={coffee} alt="Coffee Application"
                     className="rounded-md duration-200 hover:scale-105" />
                     <div className="flex items-center justify-center">
-                        <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Code</button>
-                        <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">SRS</button>
-                        <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Logs</button>
                     </div>
                 </div>
             </div>
