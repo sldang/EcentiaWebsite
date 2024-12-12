@@ -33,19 +33,6 @@ const Portfolio = () => {
                     </div>
                 </div>
 
-                <div className="shadow-md shadow-gray-600 rounded-lg">
-                    <img src={running} alt="Running Application"
-                    className="rounded-md duration-200 hover:scale-105" />
-                    <div className="flex items-center justify-center">
-                    </div>
-                </div>
-
-                <div className="shadow-md shadow-gray-600 rounded-lg">
-                    <img src={coffee} alt="Coffee Application"
-                    className="rounded-md duration-200 hover:scale-105" />
-                    <div className="flex items-center justify-center">
-                    </div>
-                </div>
             </div>
         </div>
     </div>
