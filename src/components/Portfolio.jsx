@@ -1,5 +1,5 @@
 import React from 'react'
-import running from "../assets/portfolio/running.png"
+import socials from "../assets/portfolio/socials.png"
 
 const Portfolio = () => {
 
