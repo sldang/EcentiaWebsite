@@ -20,7 +20,9 @@ const Portfolio = () => {
                     <img src={socials} alt="Social Media Application"
                     className="rounded-md duration-200 hover:scale-105" />
                     <div className="flex items-center justify-center">
+                        <a href = "https://github.com/sldang/Pixure_App.git">
                         <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Code</button>
+                        </a>
                         <a href = "https://docs.google.com/document/d/10iGYUHj9U7Eyu20r8HAtnE-LDgq9Nd6Q7xv0n5aG13I/edit?usp=sharing">
                         <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">SRS</button>
                         </a>
