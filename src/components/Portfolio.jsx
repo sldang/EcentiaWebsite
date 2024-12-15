@@ -23,7 +23,7 @@ const Portfolio = () => {
                         <a href = "https://github.com/sldang/Pixure_App.git">
                         <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">Code</button>
                         </a>
-                        <a href = "https://docs.google.com/document/d/10iGYUHj9U7Eyu20r8HAtnE-LDgq9Nd6Q7xv0n5aG13I/edit?usp=sharing">
+                        <a href = "https://docs.google.com/document/d/1dsC7kU80m0yEBctPIiZcPr2Gmxn5UqoG2hDR5lyIjzk/edit?usp=sharing">
                         <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">SRS</button>
                         </a>
                         <a href = "https://drive.google.com/drive/folders/1eCxLIU-YZtJBht6RChc3_D9OApI1efFb?usp=sharing">
